@@ -1,1 +1,1 @@
-Actually minimalist asp:updatepanel example
+Actually minimalist asp:updatepanel example.
